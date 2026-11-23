@@ -1,0 +1,1 @@
+Buenos dias a todos, el dia de hoy he hecho el ejercicio 2 , este inicio de la practica. Cuando aparezca la palabra pare se termina y debemos emprezar con otro inicio. Hasta cuando se dija pare.

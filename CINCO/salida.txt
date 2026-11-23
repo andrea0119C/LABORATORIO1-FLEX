@@ -1,0 +1,7 @@
+Ingrese un texto:
+
+RESULTADOS:
+Letras mayusculas: 1
+Letras minusculas: 90
+Digitos: 4
+Espacios en blanco: 24

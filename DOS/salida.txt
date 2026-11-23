@@ -1,0 +1,6 @@
+Buenos dias a todos, el dia de hoy he hecho el ejercicio 2 , este Comando inicio ejecutado
+ de la practica. Cuando aComando pare recibido
+zca la palabra Comando pare recibido
+ se termina y debemos emprezar con otro Comando inicio ejecutado
+. Hasta cuando se dija Comando pare recibido
+.
