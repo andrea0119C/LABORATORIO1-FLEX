@@ -1,0 +1,3 @@
+int x1 = 25;
+while contador if else ifx
+hola 100 mundo_2 else
