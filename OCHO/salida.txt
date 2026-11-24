@@ -1,0 +1,3 @@
+hola mundo, soy alan
+estoy en la materia de compiladores
+lex convierte mayusculas a minusculas: abc 123 xyz
