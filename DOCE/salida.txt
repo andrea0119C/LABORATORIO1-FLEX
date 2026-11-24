@@ -1,0 +1,8 @@
+Hex 0x1A3F = 6719
+Hex 0xFF = 255
+Hex 0x10 = 16
+No reconocido: 0
+No reconocido: x
+No reconocido: Z
+No reconocido: Z
+Hex 0XabC = 2748

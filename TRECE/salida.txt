@@ -1,0 +1,17 @@
+ID: a
+COMA
+ID: b
+COMA
+ENTERO: 12
+COMA
+ID: x_1
+--- fin de lista ---
+ENTERO: 5
+COMA
+ERROR: token invalido '9z'
+COMA
+ERROR: token invalido '$'
+COMA
+ID: hola
+--- fin de lista ---
+--- fin de lista ---

@@ -1,0 +1,7 @@
+Binario 1011 = 11
+Binario 110 = 6
+Binario 0 = 0
+Binario 1 = 1
+No es binario: 102
+No es binario: abc
+Binario 11111111 = 255
